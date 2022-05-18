@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanurreh
+- 👋 Hi, I’m Tanzeel Ur Rehman
 - 👀 I’m interested in Tech IT
 - 🌱 I’m currently learning Flutter developer
 - 📫 How to reach me at Tan.urrehm@gmail.com
