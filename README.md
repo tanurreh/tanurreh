@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanzeel Ur Rehman
-- 👀 I’m interested in Tech IT
-- 🌱 I’m currently learning Flutter developer
+- 👀 I’m interested in development of Smooth , amazing , stylish Mobile Applications
+- 🌱 I’m a Flutter Developer
 - 📫 How to reach me at Tan.urrehm@gmail.com
 
 <!---
